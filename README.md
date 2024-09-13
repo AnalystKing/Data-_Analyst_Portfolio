@@ -10,11 +10,14 @@ In a bid to keep improving, I always source for raw data and real world case stu
 Some of the tools and skills at my disposal includes:  
 - Proficiency in the use **Excel** to extract, clean, analyze and visualize data.
 - Skilled in the use of **SQL** to extract, clean and analyze data from relational database.
-- Proficiency in the use **Power Bi** to extract, clean, analyze and visualize data as well creating reports and dashboards.
-- Advanced knowledge in the use of **Python** as a programming tool to extract, clean and visualize data. 
-- You can check out my LinkedIn profile by clicking: https://www.linkedin.com/in/data-analyst-kingsley-aguguom/
-- 📫 You can also reach me through gmail on: Lilkingflex@gmail.com
+- Proficiency in the use **Power BI** to extract, clean, analyze and visualize data as well creating reports and dashboards.
+- Advanced knowledge in the use of **Python** as a programming tool to extract, clean and visualize data.
 
+You can check out my CV:
+You can also check out my LinkedIn profile: https://www.linkedin.com/in/data-analyst-kingsley-aguguom/
+- 📫 You can reach me through gmail on: kingsleyaguguom@gmail.com
+-                              
+This is a repository to showcase some of my skills, share projects and track my progress in Data Analytics / Data Science related topics.
 <!---
 DataAnalystKings/DataAnalystKings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
