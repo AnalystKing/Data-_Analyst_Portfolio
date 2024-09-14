@@ -1,4 +1,4 @@
-****Kingsley Aguguom****
+# Kingsley Aguguom
 
 **Hi, I’m Kingsley, a budding Data Analyst and Power BI Dashboard developer.**
 With a strong foundational background in **Industrial Mathematics** from the Federal University of University, Minna, Niger state, I developed a keen analytical sense and approach to problem solving. This in turn spurred my passion towards using data to uncover meaningful insights. As such choosing a career path in data science as a Data Analyst was the natural choice and I am excited to showcase my analytical skills.
@@ -14,9 +14,10 @@ Some of the tools and skills at my disposal includes:
 - Advanced knowledge in the use of **Python** as a programming tool to extract, clean and visualize data.
 
 You can check out my CV:
+
 You can also check out my LinkedIn profile: https://www.linkedin.com/in/data-analyst-kingsley-aguguom/
-- 📫 You can reach me through gmail on: kingsleyaguguom@gmail.com
--                              
+📫 You can reach me through gmail on: kingsleyaguguom@gmail.com
+                            
 This is a repository to showcase some of my skills, share projects and track my progress in Data Analytics / Data Science related topics.
 <!---
 DataAnalystKings/DataAnalystKings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
