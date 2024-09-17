@@ -15,9 +15,7 @@ Some of the tools and skills at my disposal includes:
 - Proficiency in the use **Power BI** to extract, clean, analyze and visualize data as well creating reports and dashboards.
 - Advanced knowledge in the use of **Python** as a programming tool to extract, clean, explore, analyze and visualize data.
 
- ![python](https://github.com/user-attachments/assets/27a8b9c3-89dd-4e0f-82a5-d647c3664523)
-         ![PostgreSql logo](https://github.com/user-attachments/assets/95ee6fab-861d-41bf-b8aa-c18d8ca26527)
-           ![Excel logo](https://github.com/user-attachments/assets/47ad58a1-100f-410e-b538-ae72715856c0)         ![power bi logo](https://github.com/user-attachments/assets/628f5606-9058-45b7-8e2e-bc3daf29584b)       ![mysql](https://github.com/user-attachments/assets/4143c376-7dad-48a7-89ab-18def2cfb8dc)       ![pandas](https://github.com/user-attachments/assets/3ef9dbe5-cb64-47f9-91a7-500c6f41ee32)        ![jupyter](https://github.com/user-attachments/assets/839fccbd-401c-4d96-a7ad-15cbb8fbb0c6)
+  ![PostgreSql logo](https://github.com/user-attachments/assets/584eed3b-ca57-4873-b285-0427955bbf97)        ![Excel logo](https://github.com/user-attachments/assets/0b8884d7-bbf3-48a1-b720-1570d95cbc1b)     ![python](https://github.com/user-attachments/assets/629ea701-076f-4637-b93b-80b2ea2d4bb7)       ![power bi logo](https://github.com/user-attachments/assets/791a9207-90f9-4406-9998-444b0f770c2f)       ![mysql](https://github.com/user-attachments/assets/d247516a-437a-4aba-bbf7-f53ce45d5853)      ![pandas](https://github.com/user-attachments/assets/904d1806-a474-48c7-876f-10a876033852)     ![jupyter](https://github.com/user-attachments/assets/4ce98af3-0686-4955-9992-bafae5dcf01a)
 
 
 You can check out my CV: [KINGSLEY OGOCHUKWU AGUGUOM.pdf](https://github.com/user-attachments/files/17027151/KINGSLEY.OGOCHUKWU.AGUGUOM.pdf)
