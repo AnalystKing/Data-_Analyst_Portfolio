@@ -12,9 +12,11 @@ Some of the tools and skills at my disposal includes:
 - Skilled in the use of **SQL** to extract, clean and analyze data from relational database.
 - Proficiency in the use **Power BI** to extract, clean, analyze and visualize data as well creating reports and dashboards.
 - Advanced knowledge in the use of **Python** as a programming tool to extract, clean and visualize data.
-
-  ![python](https://github.com/user-attachments/assets/0ea9eff0-b274-4646-bd4d-b4fbfb72baca)
   
+![power bi logo](https://github.com/user-attachments/assets/991530c5-2ed8-437a-b8af-79f15ca3b82f)
+
+![PostgreSql logo](https://github.com/user-attachments/assets/c53ce944-6e75-44bd-9133-6df57f6cb1a8)
+
 
 
 You can check out my CV:
