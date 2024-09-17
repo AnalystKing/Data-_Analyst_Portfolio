@@ -13,6 +13,10 @@ Some of the tools and skills at my disposal includes:
 - Proficiency in the use **Power BI** to extract, clean, analyze and visualize data as well creating reports and dashboards.
 - Advanced knowledge in the use of **Python** as a programming tool to extract, clean and visualize data.
 
+  ![python](https://github.com/user-attachments/assets/0ea9eff0-b274-4646-bd4d-b4fbfb72baca)
+  
+
+
 You can check out my CV:
 
 🔗 You can also check out my [LinkedIn profile](https://www.linkedin.com/in/data-analyst-kingsley-aguguom/)
