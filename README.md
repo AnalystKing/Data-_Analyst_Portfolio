@@ -12,14 +12,14 @@ Some of the tools and skills at my disposal includes:
 - Skilled in the use of **SQL** to extract, clean and analyze data from relational database.
 - Proficiency in the use **Power BI** to extract, clean, analyze and visualize data as well creating reports and dashboards.
 - Advanced knowledge in the use of **Python** as a programming tool to extract, clean and visualize data.
-  
-![power bi logo](https://github.com/user-attachments/assets/991530c5-2ed8-437a-b8af-79f15ca3b82f)
-
-![PostgreSql logo](https://github.com/user-attachments/assets/c53ce944-6e75-44bd-9133-6df57f6cb1a8)
 
 
+  ![python](https://github.com/user-attachments/assets/27a8b9c3-89dd-4e0f-82a5-d647c3664523)
 
-You can check out my CV:
+
+
+You can check out my CV: [KINGSLEY OGOCHUKWU AGUGUOM.pdf](https://github.com/user-attachments/files/17027151/KINGSLEY.OGOCHUKWU.AGUGUOM.pdf)
+
 
 🔗 You can also check out my [LinkedIn profile](https://www.linkedin.com/in/data-analyst-kingsley-aguguom/)
 
