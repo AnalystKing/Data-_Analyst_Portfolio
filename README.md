@@ -15,8 +15,9 @@ Some of the tools and skills at my disposal includes:
 
 You can check out my CV:
 
-You can also check out my LinkedIn profile: https://www.linkedin.com/in/data-analyst-kingsley-aguguom/
-📫 You can reach me through gmail on: kingsleyaguguom@gmail.com
+🔗 You can also check out my [LinkedIn profile](https://www.linkedin.com/in/data-analyst-kingsley-aguguom/)
+
+📫 You can reach me through gmail on: [kingsleyaguguom@gmail.com](kingsleyaguguom@gmail.com)
                             
 This is a repository to showcase some of my skills, share projects and track my progress in Data Analytics / Data Science related topics.
 <!---
