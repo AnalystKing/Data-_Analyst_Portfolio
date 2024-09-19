@@ -41,4 +41,12 @@ The analysis results are summarize as follows;
 - The 'books' category had the most amount of sales for the year with **938,229** sales while the 'Home and Kitchen' category had the least amount of sales with **742,141** sales.
 - The first month of the year has the highest number of sales. Subsequently, the amount of sales gradually declines as the months goes by with the last month of the year, recording the least amount of sales.
 - From analysis, it can be surmised that the **'Electronics'** category is the most liked product category as it has the highest average rating of **3.14**. The product with the most number of reviews is **'Product_12'** with a rating of 5.
-- The sales made in the second month for the **'Home and Kitchen'** category was the lowest recorded by any category for the year. While the highest was the sales made in the **'Books'** category in the tenth month. 
+- The sales made in the second month for the **'Home and Kitchen'** category was the lowest recorded by any category for the year. While the highest was the sales made in the **'Books'** category in the tenth month.
+- The total sales made for the year was **6,019,912** sales.
+
+A preview of the dashborad can be seen below:
+
+![Dashboard 1](https://github.com/user-attachments/assets/4452ecc9-e618-44c0-95b2-43b20e0e7b68)      ![Dashboard 2](https://github.com/user-attachments/assets/251d09af-955f-4ae2-8e2b-1653f870ec6a)      ![Dashboard 3](https://github.com/user-attachments/assets/6883fe8e-7320-4c28-8128-f88375221f00)
+
+
+
