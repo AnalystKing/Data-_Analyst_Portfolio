@@ -48,5 +48,14 @@ A preview of the dashborad can be seen below:
 
 ![Dashboard 1](https://github.com/user-attachments/assets/4452ecc9-e618-44c0-95b2-43b20e0e7b68)      ![Dashboard 2](https://github.com/user-attachments/assets/251d09af-955f-4ae2-8e2b-1653f870ec6a)      ![Dashboard 3](https://github.com/user-attachments/assets/6883fe8e-7320-4c28-8128-f88375221f00)
 
+### Recommendation
+Based on analysis, we recommend the following actions; 
+- Invest in marketing and promotions during peak season which is early on in the year to maximize revenue.
+- Focus on expanding and promoting products in the **'Electronics'** category.
+- More can be done to improve sales in the **'Clothing'** category, such as campaigns or discount sales.
+- Customers seem to be least satisfied with products in the **'Toys'** category. It would be worth investigating to ascertain the reason for this.
+
+
+
 
 
