@@ -10,16 +10,35 @@ The primary tool used in this analysis is Excel [(Download here)](https://micros
 - Extracting the data
 - Cleaning and exploring the data
 - Analyzing the data
+- Creating pivot tables
 - Visualizing the data and creating a dashboard.
 
 ### Data Cleaning/Preparation
 In the initial data preparation stage, we performed the following tasks;
-- Data loading and inspection
-- Checking formatting and handling missing values
+- Data loading and inspection for incorrect or missing values
 - Calculating the 'Total Sales for the Year' and 'Average Sales per Month'
 - Data cleaning and formatting
 
 ### Exploratory Data Analysis (EDA)
 EDA involved exploring the data to answer key question, such as;
 - Which product category had the most sales across the year?
-- What is the 
+- What is the trend in purchase of products across the year?
+- Which product and category of products is most liked by customers?
+- Which category of product had the least and most amount of sales per month for the year?
+- What was the total sales made for the year?
+
+### Data Analysis
+Some of the syntax/function we used for analysis includes;
+```excel
+= SUM() function
+= AVERAGE() function
+= Conditional formatting
+Pivot tables
+```
+
+### Results/Findings
+The analysis results are summarize as follows;
+- The 'books' category had the most amount of sales for the year with **938,229** sales while the 'Home and Kitchen' category had the least amount of sales with **742,141** sales.
+- The first month of the year has the highest number of sales. Subsequently, the amount of sales gradually declines as the months goes by with the last month of the year, recording the least amount of sales.
+- From analysis, it can be surmised that the **'Electronics'** category is the most liked product category as it has the highest average rating of **3.14**. The product with the most number of reviews is **'Product_12'** with a rating of 5.
+- The sales made in the second month for the **'Home and Kitchen'** category was the lowest recorded by any category for the year. While the highest was the sales made in the **'Books'** category in the tenth month. 
