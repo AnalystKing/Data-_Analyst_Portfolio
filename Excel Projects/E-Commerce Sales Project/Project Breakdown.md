@@ -31,8 +31,11 @@ EDA involved exploring the data to answer key question, such as;
 Some of the syntax/function we used for analysis includes;
 ```excel
 = SUM() function
+
 = AVERAGE() function
+
 = Conditional formatting
+
 Pivot tables
 ```
 
