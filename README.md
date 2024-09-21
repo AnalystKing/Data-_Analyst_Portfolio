@@ -1,4 +1,4 @@
-## Kingsley Aguguom - Data Analyst Portfolio
+## Kingsley Aguguom - Data Analyst Profile
 ## About
 **Hi, I’m Kingsley, a budding Data Analyst and Power BI Dashboard developer.**
 With a strong foundational background in **Industrial Mathematics** from the Federal University of University, Minna, Niger state, I developed a keen analytical sense and approach to problem solving. This in turn spurred my passion towards using data to uncover meaningful insights. As such choosing a career path in data science as a Data Analyst was the natural choice and I am excited to showcase my analytical skills.
