@@ -60,7 +60,9 @@ Some of the analysis results are as follows:
 
 Here is a preview of the dashoard for reference (prepared in light and dark mode):
 
+![BI Dashboard Overview (Dark mode)](https://github.com/user-attachments/assets/863cf027-0924-4508-ab91-4ab19b0b6171)
 
+![BI Dashboard Overview(Light mode)](https://github.com/user-attachments/assets/9a5dfb0a-490b-48b8-8129-e6c180dfed86)
 
 To interact with the dashboard and apply filters, click here: [HR Data - Copy.xlsx](https://github.com/user-attachments/files/17045679/HR.Data.-.Copy.xlsx)
 
