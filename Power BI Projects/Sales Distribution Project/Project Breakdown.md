@@ -19,30 +19,36 @@ In the initial data preparation stage, we performed the following tasks;
 - Data loading and inspection
 - Checking formatting and handling missing values
 - Data cleaning and formatting
-- Creating calculated columns and measures 
+- Creating calculated columns and measures
+- Creating a dedicated date column and hierarchy
 
 ### Exploratory Data Analysis (EDA)
-EDA involved exploring the sales data to answer key questions, such as;
-- What is the number of employees and attrition rate in the organization?
-- What is the performance and satisfaction level of employees in the organization?
-- What is the age and gender balance of employees across each department?
-- How often did employees strive to improve their selves through training in the previous year?
+EDA involved exploring the data to answer key question, such as;
+- What is the total sales for the year?
+- Which products are the best selling products?
+- Who are the top 3 purchasing customers?
+- Are we meeting our monthly targets?
 
 ### Data  Analysis
-Some of the functions or syntax used during analysis in excel includes: 
-- Current number of employees
-```excel
-=SUM(CF.current Employee column)
+Some of the functions or syntax used during analysis in Power BI includes: 
+- Creating a custom column to calculate sales
+```DAX
+= Table.AddColumn(#"Changed Type", "Actual", each [#"UNIT PRICE ($)"]*[QUANTITY])
 ```
 
-- Attrition rate
-```excel
-=(GETPIVOTDATA("Employee Count",$C$2)-GETPIVOTDATA("CF_current Employee",$A$2))/GETPIVOTDATA("Employee Count",$C$2)
+- Creating a dedicated month column
+```DAX
+= Table.AddColumn(#"Inserted Week of Month", "Month", each Date.Month([DATE]), Int64.Type)
 ```
 
-- Average Age
- ```excel
-  =AVERAGE(Age_column)
+- Creating a dedicated Week of Month column
+```DAX
+= Table.AddColumn(#"Added Custom", "Week of Month", each Date.WeekOfMonth([DATE]), Int64.Type)
+```
+
+- Craeting a dedicated Week of Year column
+```DAX
+= Table.AddColumn(#"Inserted Day", "Week of Year", each Date.WeekOfYear([DATE]), Int64.Type)
 ```
 
 ### Results/Findings
