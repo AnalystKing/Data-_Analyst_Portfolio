@@ -1,6 +1,6 @@
 ## Sales Distribution Project
 ### Project Overview
-This data analysis project using the sales distribution dataset of a company aims to provide insight into sales trends and patterns across regions and through the year, top performing products as well as the top purchasing customers of the company. It also seeks to answer important qusetions as to whether the various targets are been met.  
+This data analysis project using the sales distribution dataset of a company aims to provide insight into sales trends and patterns across regions and through the year, top performing products as well as the top purchasing customers of the company. It also seeks to answer important qusetions as to whether the various company's targets are been met.  
 
 ### Data Sources
 Sales_Distribution_file.csv: The primary dataset used for this analysis is the 'Sales_Distribution_file.csv' file containing important information about sales in the organization as well as the company's target. The dataset is sourced from [here](https://leanexcelsolutions.com/wp-content/uploads/2022/04/Sales-Distribution-Practice-File.xlsx)
@@ -9,7 +9,7 @@ Sales_Distribution_file.csv: The primary dataset used for this analysis is the '
 ### Tools
 The primary tool used in this analysis is Power BI [(Download here)](https://www.microsoft.com/en-us/download/details.aspx?id=58494). Power BI was used for the following processes:
 - Importing the data into Power BI
-- Exploring and cleaning the data using Power Query editor
+- Exploring, cleaning and formatting the data using Power Query editor
 - Carrying out statistical analysis
 - Visualizing the data and creating a dashboard
 - Publishing and the sharing the dashboard
@@ -19,9 +19,10 @@ In the initial data preparation stage, we performed the following tasks;
 - Data loading and inspection
 - Checking formatting and handling missing values
 - Data cleaning and formatting
+- Creating calculated columns and measures 
 
 ### Exploratory Data Analysis (EDA)
-EDA involved exploring the employee data to answer key questions, such as;
+EDA involved exploring the sales data to answer key questions, such as;
 - What is the number of employees and attrition rate in the organization?
 - What is the performance and satisfaction level of employees in the organization?
 - What is the age and gender balance of employees across each department?
