@@ -58,9 +58,9 @@ Some of the analysis results are as follows:
 - The top purchasing customers are **Customer33**, **Customer22** and **Customer23** respectively.
 - Monthly targets were reached in only 4 months. **January, July, October** and **December**. Sales in other months were below their respective monthly targets.
 
-Here is a preview of the dashoard for reference:
+Here is a preview of the dashoard for reference (prepared in light and dark mode):
 
-![Dashboard](https://github.com/user-attachments/assets/47ddd0fb-91eb-4d72-8c16-3d6cdcb981d0)
+
 
 To interact with the dashboard and apply filters, click here: [HR Data - Copy.xlsx](https://github.com/user-attachments/files/17045679/HR.Data.-.Copy.xlsx)
 
