@@ -29,9 +29,9 @@ I am actively seeking new full-time or contract roles where I can apply my skill
 
 You can check out my CV: [KINGSLEY OGOCHUKWU AGUGUOM.pdf](https://github.com/user-attachments/files/17027151/KINGSLEY.OGOCHUKWU.AGUGUOM.pdf)
 
-🔗 You can also check out my [LinkedIn profile](https://www.linkedin.com/in/data-analyst-kingsley-aguguom/)
+🔗 You can also check out and connect with me through my [LinkedIn profile](https://www.linkedin.com/in/data-analyst-kingsley-aguguom/)
 
-📫 You can reach me through gmail on: [kingsleyaguguom@gmail.com](kingsleyaguguom@gmail.com)
+📫 You can reach me through mail on: [kingsleyaguguom@gmail.com](kingsleyaguguom@gmail.com)
                             
 This is a repository to showcase some of my skills, share projects and track my progress in Data Analytics / Data Science related topics.
 <!---
