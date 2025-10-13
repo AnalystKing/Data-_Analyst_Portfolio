@@ -1,4 +1,4 @@
-Documented here are some of the projects I have worked on using Power BI. Power BI was used to perform some or all the following tasks on the data;
+Documented here are some of the projects I have worked on using Power BI as the primary tool. Power BI was used to perform some or all the following tasks on the data;
 
 Importing and loading the raw data
 Exploring and checking the data for missing values and formatting
