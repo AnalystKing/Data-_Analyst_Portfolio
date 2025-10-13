@@ -2,22 +2,30 @@
 ## About
 **Hi, I’m Kingsley, a budding Data Analyst and Power BI Dashboard developer.**
 
-With a strong foundational background in **Industrial Mathematics** from the Federal University of University, Minna, Niger state, I developed a keen analytical sense and approach to problem solving. This in turn spurred my passion towards using data to uncover meaningful insights. As such choosing a career path in data science as a Data Analyst was the natural choice and I am excited to showcase my analytical skills.
+I am a Data Analyst with a strong foundation in Industrial Mathematics and hands-on experience transforming complex datasets into actionable insights for strategic decision-making. I am currently contributing as a Field Enumerator & Data Analyst Consultant for STRANSFORM Ltd, supporting a large-scale workforce audit and skills gap analysis for the Office of the Head of the Civil Service of the Federation (OHCSF). My work involves data collection, validation, and the development of interactive dashboards to identify personnel gaps and drive public sector efficiency.
 
-In a bid to acquire, develop and master the necessary skills and tools needed to excel in this field, I have been able to engage in different course work and programs with hands-on projects during i was able to learn, practice, master and apply various skills and use various tools in extracting data from various sources, clean, explore, tranform, analyze, visualize, document and present meaningful insights gleemed from the raw data. During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends.
+I am actively seeking new full-time or contract roles where I can apply my skills in SQL, Power BI, and data analysis to solve challenging business problems. I am passionate about collaboration, clear communication, and using data to tell compelling stories that inform strategy.
 
-In a bid to keep improving, I always source for raw data and real world case studies to keep exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+🛠️ Skills & Tools
 
-## Skills and Tools
+- Data Analysis & Visualization: Advanced Excel (Power Query, PivotTables, DAX), Power BI, Tableau
 
-Some of the tools and skills at my disposal includes:  
-- Proficiency in the use **Excel** to extract, clean, analyze and visualize data.
-- Skilled in the use of **SQL** to extract, clean and analyze data from relational database.
-- Proficiency in the use **Power BI** to extract, clean, analyze and visualize data as well creating reports and dashboards.
-- Advanced knowledge in the use of **Python** as a programming tool to extract, clean, explore, analyze and visualize data.
+- Databases & Querying: SQL (PostgreSQL, MySQL)
 
-  ![PostgreSql logo](https://github.com/user-attachments/assets/584eed3b-ca57-4873-b285-0427955bbf97)        ![Excel logo](https://github.com/user-attachments/assets/0b8884d7-bbf3-48a1-b720-1570d95cbc1b)     ![python](https://github.com/user-attachments/assets/629ea701-076f-4637-b93b-80b2ea2d4bb7)       ![power bi logo](https://github.com/user-attachments/assets/791a9207-90f9-4406-9998-444b0f770c2f)       ![mysql](https://github.com/user-attachments/assets/d247516a-437a-4aba-bbf7-f53ce45d5853)      ![pandas](https://github.com/user-attachments/assets/904d1806-a474-48c7-876f-10a876033852)     ![jupyter](https://github.com/user-attachments/assets/4ce98af3-0686-4955-9992-bafae5dcf01a)
+- Data Management: ETL Processes, Data Cleaning, Validation, Dashboard Development
 
+- Data Collection: ODK (SurveyCTO), Google Forms, Microsoft Forms
+
+💼 Professional Experience
+
+- Field Enumerator / Data Analyst Consultant | STRANSFORM Ltd (*Sep 2025 - Present*)
+
+- Data Analyst / M&E Officer | Jomax Associates (*Apr 2025 - Present*)
+
+- Data Analyst Intern | Awake to Power Communications Ltd (*Dec 2024 - Mar 2025*)
+
+  ![PostgreSql logo](https://github.com/user-attachments/assets/584eed3b-ca57-4873-b285-0427955bbf97)        ![Excel logo](https://github.com/user-attachments/assets/0b8884d7-bbf3-48a1-b720-1570d95cbc1b)     ![python](https://github.com/user-attachments/assets/629ea701-076f-4637-b93b-80b2ea2d4bb7)       ![power bi logo](https://github.com/user-attachments/assets/791a9207-90f9-4406-9998-444b0f770c2f)       ![mysql](https://github.com/user-attachments/assets/d247516a-437a-4aba-bbf7-f53ce45d5853)    <img width="397" height="127" alt="surveycto" src="https://github.com/user-attachments/assets/deb693bd-91cd-47b9-b1ca-d2310366502e" />
+  
 
 You can check out my CV: [KINGSLEY OGOCHUKWU AGUGUOM.pdf](https://github.com/user-attachments/files/17027151/KINGSLEY.OGOCHUKWU.AGUGUOM.pdf)
 
